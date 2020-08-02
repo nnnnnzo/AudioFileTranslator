@@ -7,21 +7,21 @@ print("/_/ |_/_/   /_/       /_/ (_)  \___/ ")
 print()
 print("-AudioFilesTranslator 1.0-")
 
-echantillon_audio = "audio.wav"
+audio_sample = "audio.wav"
 r = sr.Recognizer() 
 ##print(type(r))
-with sr.AudioFile(echantillon_audio) as source: 
+with sr.AudioFile(audio_sample) as source: 
     audio = r.record(source)
 ##print(type(audio)) 
 print("Currently reading the audio file...")
-audiototxt = r.recognize_google(audio,language = "fr-FR")
+ScratchTXT = r.recognize_google(audio,language = "fr-FR") ##Language from the source can be edited here
 print()
-print("Original Audio:")
-print(audiototxt)
+print("Original Audio File:")
+print(ScratchTXT)
 traducteur = Translator()
-resultat = traducteur.translate(audiototxt, src='fr', dest='en')
+TranslatedTXT = traducteur.translate(ScratchTXT, src='fr', dest='en') ##"src" is the source language, and "dest" the destination one; here we want to translate from French to English.
 print()
 print("Translated Audio File:")
-print(resultat)
+print(TranslatedTXT)
 ##dialogue rigolo trouvé sur youtube
 
