@@ -20,7 +20,7 @@ or (if you don't want to print the translated audio)</br>
 from AFT_Engine import *
 AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ```
-#### As you noticed the AFTcore function need 4 arguments: </br> ("AudioFilePath", "SourceLanguageCode-SourceCountryCode", "SourceLanguageCode", "DestinationLanguage")
+#### As you noticed the AFTcore function need 4 arguments: </br> ("AudioFilePath", "SourceLanguageCode-SourceCountryCode", "SourceLanguageCode", "DestinationLanguageCode")
 [Language Code List](https://cloud.google.com/translate/docs/languages "Language Code List")</br>
 #### The Repo contains a demo folder to help you use AFT Engine.
 
