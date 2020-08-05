@@ -36,4 +36,4 @@ PS: The audio used in the screenshot is not really appropriate, it is made to le
 
 ## License
 
-This AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
