@@ -31,3 +31,7 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ![AFT Base ScreenShot](https://raw.githubusercontent.com/nnnzo/Ressources/master/img/Capture%20d%E2%80%99e%CC%81cran%202020-08-02%20a%CC%80%2012.28.09.png)
 
 PS: The audio used in the screenshot is not really appropriate, it is made to learn the pronunciation of French words; hence the errors towards the end of the translation.
+
+## License
+
+This AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
