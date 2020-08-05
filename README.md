@@ -7,8 +7,8 @@ AFT is a python nano framework based on the googletrans and speech_recognition m
 
 ## Table of Contents
 
-- [AFT Engine (Python Module)](#AFT Engine)
-- [AFT One (PreConfigured AudioTranslator)](#AFT One)
+- [AFT Engine (Python Module)](#AFT_Engine)
+- [AFT One (PreConfigured AudioTranslator)](#AFT_One)
 - [License](#license)
 
 
