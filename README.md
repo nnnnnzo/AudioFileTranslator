@@ -49,3 +49,5 @@ PS: The audio used in the screenshot is not really appropriate, it is made to le
 ## License
 
 The AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
