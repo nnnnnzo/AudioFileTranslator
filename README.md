@@ -13,7 +13,7 @@ AFT is a python nano framework based on the googletrans and speech_recognition m
 
 
 ## AFT Engine
-"AFT_Engine.py" is the python module version of AFT. It's made to be used inside another script without taking space.
+"AFT_Engine.py" is the python module from AFT. It's made to be used inside another script without taking space.
 ### Installation
 To use AFT Engine, it's required to move "AFT_Engine.py" in the same directory of your own python script.
 ### Importation and usage
@@ -38,7 +38,7 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 </br>
 
 ## AFT One
-"AFT_One.py" is a more user friendly version for people who only want to use AFT as a Translator and not as a python module. </br> </br>
+"AFT_One.py" is a more user friendly version for people who only want a Translator and not a python module. </br> </br>
 ![AFT Base ScreenShot](https://raw.githubusercontent.com/nnnzo/Ressources/master/img/Capture%20d%E2%80%99e%CC%81cran%202020-08-02%20a%CC%80%2012.28.09.png)
 
 PS: The audio used in the screenshot is not really appropriate, it is made to learn the pronunciation of French words; hence the errors towards the end of the translation.
