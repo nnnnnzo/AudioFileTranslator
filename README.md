@@ -14,6 +14,7 @@ AFT is a python nano framework based on the googletrans and speech_recognition m
 
 ## AFT Engine
 "AFT_Engine.py" is the python module from AFT. It's made to be used inside another script without taking space.
+[![AFTE BADGE](https://img.shields.io/badge/Download-AFT%20Engine-blue)](https://github.com/nnnzo/AudioFileTranslator/releases/tag/1.1)
 ### Installation
 To use AFT Engine, it's required to move "AFT_Engine.py" in the same directory of your own python script.
 ### Importation and usage
@@ -34,8 +35,6 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ```
 </br>[Language Code List >>](https://cloud.google.com/translate/docs/languages "Language Code List")</br>
 #### The Repo contains a demo folder to help you use AFT Engine.
-
-[![AFTE BADGE](https://img.shields.io/badge/Download-AFT%20Engine-blue)](https://github.com/nnnzo/AudioFileTranslator/releases/tag/1.1)
 
 </br>
 
