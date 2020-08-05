@@ -22,7 +22,9 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ```
 ##### /!\ AFT Engine only return the translated text, nothing more.
 #### As you noticed the AFTcore function of the Engine need 4 arguments: </br> 
+```python
 ("AudioFilePath", "SourceLanguageCode-SourceCountryCode", "SourceLanguageCode", "DestinationLanguageCode")
+```
 </br>[Language Code List >>](https://cloud.google.com/translate/docs/languages "Language Code List")</br>
 #### The Repo contains a demo folder to help you use AFT Engine.
 
@@ -36,4 +38,4 @@ PS: The audio used in the screenshot is not really appropriate, it is made to le
 
 ## License
 
-The AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The AFT framework (wich contains AFT Engine and AFT One) is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
