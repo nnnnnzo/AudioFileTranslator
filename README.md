@@ -27,7 +27,7 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 </br>
 
 ## AFT One
-"AFT_One.py" is a version for people who only want to use AFT as Translator and not as a module.
+"AFT_One.py" is a version for people who only want to use AFT as Translator and not as a module. </br>
 ![AFT Base ScreenShot](https://raw.githubusercontent.com/nnnzo/Ressources/master/img/Capture%20d%E2%80%99e%CC%81cran%202020-08-02%20a%CC%80%2012.28.09.png)
 
 PS: The audio used in the screenshot is not really appropriate, it is made to learn the pronunciation of French words; hence the errors towards the end of the translation.
