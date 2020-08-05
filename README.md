@@ -12,7 +12,7 @@ AFT is a python nano framework based on the googletrans and speech_recognition m
 - [License](#license)
 
 
-## AFT Engine [![AFTE BADGE](https://img.shields.io/badge/Download-AFT%20Engine-blue)](https://github.com/nnnzo/AudioFileTranslator/releases/tag/1.1)
+## AFT Engine
 "AFT_Engine.py" is the python module from AFT. It's made to be used inside another script without taking space.
 ### Installation
 To use AFT Engine, it's required to move "AFT_Engine.py" in the same directory of your own python script.
@@ -34,11 +34,15 @@ AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ```
 </br>[Language Code List >>](https://cloud.google.com/translate/docs/languages "Language Code List")</br>
 #### The Repo contains a demo folder to help you use AFT Engine.
+</br>
+[![AFTE BADGE](https://img.shields.io/badge/Download-AFT%20Engine-blue)](https://github.com/nnnzo/AudioFileTranslator/releases/tag/1.1)
 
 </br>
 
 ## AFT One 
 "AFT_One.py" is a more user friendly version for people who only want a Translator and not a python module. </br> </br>
+[![AFTO BADGE](https://img.shields.io/badge/Download-AFT%20One-yellow)](https://github.com/nnnzo/AudioFileTranslator/releases/tag/1.0)
+</br>
 ![AFT Base ScreenShot](https://raw.githubusercontent.com/nnnzo/Ressources/master/img/Capture%20d%E2%80%99e%CC%81cran%202020-08-02%20a%CC%80%2012.28.09.png)
 
 PS: The audio used in the screenshot is not really appropriate, it is made to learn the pronunciation of French words; hence the errors towards the end of the translation.
