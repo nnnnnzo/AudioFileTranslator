@@ -20,14 +20,14 @@ or (if you don't want to print the translated audio)</br>
 from AFT_Engine import *
 AFTcore("audio.wav", "fr-FR", "fr", "ja"))
 ```
-#### As you noticed the AFTcore function need 4 arguments: ("AudioFilePath", "SourceLanguageCode-SourceCountryCode", "SourceLanguageCode", "DestinationLanguage")
+#### As you noticed the AFTcore function need 4 arguments: </br> ("AudioFilePath", "SourceLanguageCode-SourceCountryCode", "SourceLanguageCode", "DestinationLanguage")
 [Language Code List](https://cloud.google.com/translate/docs/languages "Language Code List")</br>
 #### The Repo contains a demo folder to help you use AFT Engine.
 
 </br>
 
-## AFT Code
-"AFT_OneUsage.py" is a version for people who only want to use AFT as Translator and not as a module.
+## AFT One
+"AFT_One.py" is a version for people who only want to use AFT as Translator and not as a module.
 ![AFT Base ScreenShot](https://raw.githubusercontent.com/nnnzo/Ressources/master/img/Capture%20d%E2%80%99e%CC%81cran%202020-08-02%20a%CC%80%2012.28.09.png)
 
 PS: The audio used in the screenshot is not really appropriate, it is made to learn the pronunciation of French words; hence the errors towards the end of the translation.
