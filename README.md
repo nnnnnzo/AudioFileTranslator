@@ -1,5 +1,5 @@
 # AudioFileTranslator
-AFT is a python nano framework based on the googletrans and speech_recognition modules. AFT transcribe and translate an audio file to another language. The code is easy to understand and edit, the demo version translate a French dialogue to an English text.
+AFT is a python nano framework based on the googletrans and speech_recognition modules. AFT transcribe and translate an audio file to another language. The code is easy to understand and edit, the demo version translate a French dialogue to an Japanese text.
 
 *AFT work by installing the two required python modules:
 </br>`$ pip install googletrans`
