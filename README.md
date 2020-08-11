@@ -52,6 +52,6 @@ The AFT framework (wich contains AFT Engine and AFT One) is licensed under the M
 
 ## Tips
 
-This Github account is verified by the brave creator program, please consider making a BAT tips !
+This Github account is verified by the brave creator program, please consider making a BAT tips ! </br>
 ![BAT logo](https://gemini.com/images/currencies/buy_basicattentiontoken_bat.svg) 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
