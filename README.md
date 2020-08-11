@@ -52,5 +52,6 @@ The AFT framework (wich contains AFT Engine and AFT One) is licensed under the M
 
 ## *Basic Attention Token* Tips
 
-This Github account is verified by the brave creator program, please consider making a BAT tips ! </br>
+This Github account is verified by the brave creator program, please consider making a BAT tips ! 
+</br> </br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
