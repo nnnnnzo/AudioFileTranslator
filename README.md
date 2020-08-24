@@ -8,9 +8,8 @@ $ pip install googletrans
 $ pip install SpeechRecognition
 ```
 
-## Documentation
-AFT documentation can be found in the "Wiki" tab of this repo. </br>
-[![DOCB](https://img.shields.io/badge/-Access%20Wiki%20%3E-blue)](https://github.com/nnnzo/AudioFileTranslator/wiki)
+## Documentation [![DOCB](https://img.shields.io/badge/-Access%20Wiki%20%3E-blue)](https://github.com/nnnzo/AudioFileTranslator/wiki)
+AFT documentation can be found in the "Wiki" tab of this repo.
 
 ## License
 
