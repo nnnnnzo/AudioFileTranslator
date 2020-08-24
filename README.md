@@ -15,7 +15,7 @@ AFT documentation can be found in the "Wiki" tab of this repo.
 
 The AFT framework is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## *Basic Attention Token* Tips
+## Basic Attention Token Tips
 
 This Github account is verified by the brave creator program, please consider making a BAT tips ! 
 </br> </br>
