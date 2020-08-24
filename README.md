@@ -11,12 +11,13 @@ $ pip install SpeechRecognition
 ## Documentation [![DOCB](https://img.shields.io/badge/-Access%20Wiki%20%3E-blue)](https://github.com/nnnzo/AudioFileTranslator/wiki)
 AFT documentation can be found in the "Wiki" tab of this repo.
 
+## Basic Attention Token Tips
+
+This Github account is verified by the brave creator program, please consider making a BAT tips ! 
+
 ## License
 
 The AFT framework is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Basic Attention Token Tips
-
-This Github account is verified by the brave creator program, please consider making a BAT tips ! 
 </br> </br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
