@@ -5,11 +5,11 @@ AFT is a python nano framework based on the googletrans and speech_recognition m
 </br>
 ```shell 
 $ pip install googletrans
+$ pip install SpeechRecognition
 ```
-</br>`$ pip install SpeechRecognition`
 
 ## Documentation
-AFT documentation can be found in the "Wiki" tab of this repo.
+AFT documentation can be found in the "Wiki" tab of this repo. </br>
 [![DOCB](https://img.shields.io/badge/-Access%20Wiki%20%3E-blue)](https://github.com/nnnzo/AudioFileTranslator/wiki)
 
 ## License
