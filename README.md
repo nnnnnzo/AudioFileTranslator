@@ -17,7 +17,7 @@ This Github account is verified by the brave creator program, please consider ma
 
 ## License
 
-The AFT framework is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+The AFT framework is licensed under the GNU Lesser General Public License v2.1 License - see the [LICENSE](LICENSE) file for details
 
 </br> </br>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
